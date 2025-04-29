@@ -3,7 +3,7 @@
 ## Project Overview
 This end-to-end data analytics project analyzes Yelp business reviews data to gain insights into customer sentiment and business performance. The project processes approximately 7 million review records from Yelp's publicly available dataset, performing both sentiment analysis and general data analysis.
 
-![Project Architecture](project_architecture.png)
+![Project Architecture](https://github.com/itsritzz/Yelp_Reviews_Data_Engineering_Project/blob/main/resource/Flow_diagram.png)
 
 ## Dataset
 The project uses Yelp's academic dataset which consists of:
